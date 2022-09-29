@@ -1,0 +1,7 @@
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\bin\Debug\Ramon_Tarea13cuatri.exe.config
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\bin\Debug\Ramon_Tarea13cuatri.exe
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\bin\Debug\Ramon_Tarea13cuatri.pdb
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\obj\Debug\Ramon_Tarea13cuatri.csproj.AssemblyReference.cache
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\obj\Debug\Ramon_Tarea13cuatri.csproj.CoreCompileInputs.cache
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\obj\Debug\Ramon_Tarea13cuatri.exe
+C:\Users\Josue y Mathias\source\repos\Ramon_Tarea13cuatri\Ramon_Tarea13cuatri\obj\Debug\Ramon_Tarea13cuatri.pdb
